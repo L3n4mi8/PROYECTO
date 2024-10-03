@@ -1,38 +1,39 @@
 body{
-    background-image: url(https://s1.ticketm.net/dam/a/477/955a0c60-463c-442a-a3bb-d10aa68dc477_1827641_TABLET_LANDSCAPE_LARGE_16_9.jpg);
+    background-image: url(imagenes/5c113e4cb3d9a27623376fa601f71abb.jpg);
     img {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 60%;
       }
+ background-position: center;
+      background-repeat: no-repeat;
 }
 
 
 h1 {
     text-align: center;
     color: rgb(245, 241, 241);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 
 
 h2{
     text-align: center;
     color: rgb(236, 236, 236);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 
 
-h3{
-    text-align: center;
-     color: rgb(241, 237, 237);
 
-}
-
-
-pre{
-    text-align: center;
-border: 2px solid black;
- margin: 85px;
-  background-color: rgb(210, 216, 160);
+.pro{
+    padding: 15px;
+    background-color: rgba(17, 22, 21, 0.514);
+    background-repeat: no-repeat;
+    text-align: left;
+    color: #fff;
+    font-size: 50%;
+    width: 27%;
+    text-shadow: 2px 2px 5px rgb(0, 2, 1);
 }
 
 p{
@@ -40,7 +41,6 @@ p{
 }
 
 
-
-
-
-
+a{
+    color: rgb(247, 242, 242);
+}
