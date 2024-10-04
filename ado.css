@@ -1,0 +1,28 @@
+body {
+    background-image: url(imagenes/lunn.jpg);
+}
+
+
+h1 {
+    text-align: center;
+    color: azure;
+}
+
+
+.adole {
+
+    padding: 20px;
+    background-color: rgba(22, 28, 114, 0.514);
+    text-align: center;
+    color: #fff;
+    width: 50%;
+    margin-right: 30%;
+}
+
+
+a{
+    color: black;
+}
+
+
+

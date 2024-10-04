@@ -1,0 +1,31 @@
+body{
+    background-image: url(imagenes/bbb.jfif);
+}
+
+h1{
+    color: azure;
+    text-align: center;
+}
+
+
+.adulto{
+
+        padding: 20px;
+        background-color: rgba(221, 212, 213, 0.514);
+        text-align: center;
+        color: #110f0f;
+        width: 50%;
+        margin-right: 30%;
+}
+a{
+    color: azure;
+}
+
+
+
+
+
+
+
+
+

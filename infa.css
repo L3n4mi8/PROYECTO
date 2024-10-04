@@ -1,0 +1,31 @@
+body{
+    background-image: url(imagenes/e6c21d3c29adbe886d1c1e2e94306ada.jpg);
+}
+
+
+.infancia{
+    padding: 20px;
+    background-color: rgba(150, 19, 25, 0.514);
+    text-align: center;
+    color: #fff;
+    width: 50%;
+    margin-right: 30%;
+}
+
+h1{
+    text-align: center;
+    text-decoration: solid;
+    color: azure;
+}
+
+a{
+    color: rgb(145, 13, 13);
+    text-align: auto;
+
+
+
+}
+
+
+
+
